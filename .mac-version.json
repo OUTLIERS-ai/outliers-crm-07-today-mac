@@ -1,0 +1,58 @@
+{
+  "main": "outliers-crm-07-today",
+  "main_commit": "266dc183b1ea067e90bde47876d4ff92e5162e78",
+  "mac": "outliers-crm-07-today-mac",
+  "macgen_commit": "50a7935",
+  "date": "2026-09-26",
+  "fingerprint": "5b0712020a0cbdfec7a0e88efb4b7f8a53391938aa4d287241ab4165870bdef8",
+  "left_out_of_fingerprint": [
+    ".mac-version.json",
+    "guide/Layer-7-Today (Mac).pdf",
+    "guide/Layer-7-Today.html"
+  ],
+  "files": [
+    {
+      "path": ".gitignore",
+      "category": "same",
+      "sha256": "271540188ae129e9d99d3a8ad965db71df8c7cd7abfacb3580f60a5b61de5c1a"
+    },
+    {
+      "path": "README.md",
+      "category": "changed",
+      "sha256": "a05ae50377cbb39eaf6abbf539fcc93f6b2347679b3868f2e7a74d502a5b1e18"
+    },
+    {
+      "path": "WHAT-I-STOLE.md",
+      "category": "same",
+      "sha256": "3a5ab94079c62997057aaa357a53fd40a3d954220b82e9c5fdd20517c3d85814"
+    },
+    {
+      "path": "engine/crm_paths.py",
+      "category": "same",
+      "sha256": "ab10c6f724efc213d756862c20e42f31a0f96d17e6f54122cea95c075d1b54ab"
+    },
+    {
+      "path": "engine/today.py",
+      "category": "same",
+      "sha256": "4e3c3e47be84ae1184b7fdfb8a7ae8b75d315bdb7db045172edb13623769ffca"
+    },
+    {
+      "path": "guide/Layer-7-Today (Mac).pdf",
+      "category": "left out of the fingerprint"
+    },
+    {
+      "path": "guide/Layer-7-Today.html",
+      "category": "left out of the fingerprint"
+    },
+    {
+      "path": "install.py",
+      "category": "same",
+      "sha256": "16db5a852086ce5197bf8d13e5a905fef0b6d4e571726e0636f66bfb1a68afe7"
+    },
+    {
+      "path": "tests/test_today.py",
+      "category": "same",
+      "sha256": "330612de53ba8d395f7f212b2e4dac01eccd64d1c1191d3e0645e4c266bc860b"
+    }
+  ]
+}
